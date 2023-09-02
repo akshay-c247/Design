@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.logo{
+    width: 10%;
+    
+     
+}
+.head3{
+    display: flex;
+    flex-direction: row;
+    width: 85%;
+    gap: 2.3rem;
+    align-items: center;
+}
+.head2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-left: 95px;
+    background-color: rgb(245, 248, 248);
+    height: 70px;
+    
+    
+
+}
+
+.ico{
+    margin-left: 200px;
+}
+.ico1{
+    position: relative;
+    top: 3px;
+}
+.btn{
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    background-color:rgb(19, 152, 240); 
+    color: white;
+    width: 150px;
+    border: 1px solid rgb(19, 152, 240);
+    height: 30px;
+}

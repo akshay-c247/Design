@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+.head{
+    background-color: rgb(19, 152, 240);
+    width: 100%;
+    height: 40px;
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+
+}
+.head1{
+    background-color: rgb(246, 248, 248);
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    height: 30px;
+    padding-top: 4px;
+    padding-right:70px;
+    gap: 2.3rem;
+    font-family: Arial, Helvetica, sans-serif;
+   
+   
+    
+}
+
+div div div nav li{
+    list-style: none;
+    font-size: small;
+   
+}
+
